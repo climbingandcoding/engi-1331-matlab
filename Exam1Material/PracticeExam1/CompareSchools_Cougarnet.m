@@ -1,5 +1,5 @@
 function [percentReadingLevelOutput, schoolNamePercentOutput] = CompareSchools_Cougarnet(schoolNamesInput, readingDataInput)
-% Task 2 function for Exam 1 Review Problem Version 1
+% Task 2 function for Exam 1 Review Problem Version 1.
 
 % Finds the percent of students below target reading level. The second
 % column in 'readingDataInput' contains the amount of students below
