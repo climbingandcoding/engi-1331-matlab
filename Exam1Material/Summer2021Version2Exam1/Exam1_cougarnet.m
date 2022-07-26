@@ -119,6 +119,7 @@ contractTwoRates = sum(((AVG_E > 0 & AVG_E < 1001) * 75) + ((AVG_E >= 1001 & AVG
 % column vector while a comma (or no symbol) would create a row vector.
 contractsCompared = [contractOneRates; contractTwoRates];
 
+% Prints out the cost of each contract with two decimal points of precision.
 fprintf(['Contract 1 will cost an estimated $%.2f per year.\n', ...
          'Contract 2 will cost an estimated $%.2f per year. \n'], ...
          contractsCompared(1), contractsCompared(2));
