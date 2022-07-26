@@ -103,7 +103,10 @@ numYearsSalaryAboveZero = length(find(Salary(nameChoice,:)));
 % above zero, which was calculated in the line above, to get our answer.
 averageSalaryYearsAboveZero = summaryMatrix(nameChoice, end) / numYearsSalaryAboveZero;
 
-
+% Prints out the name of the chosen person, their highest salary, the
+% corresponding year for that salary, the number of years where the
+% person made above $0, and the average salary of the years where more
+% than $0 were made.
 fprintf(['For %s, the highest annual salary was $%d in %d.\n', ...
         'There are %d non-zero years with average salary of $%2.f.\n'], ...
         Names(nameChoice), highestAnnualSalary, highestAnnualSalaryYear, ...
