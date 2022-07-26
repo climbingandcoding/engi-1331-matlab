@@ -1,4 +1,4 @@
-function [volumeM, surfaceAreaM] = Problem1Practice(radiusCM, heightCM)
+function [volumeM, surfaceAreaM] = Problem01Practice(radiusCM, heightCM)
 % Problem 1 Practice Solution. This problem covers unit conversion, 
 % functions, and the dot operator.
 
