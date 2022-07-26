@@ -3,7 +3,7 @@ function [surfaceArea] = Problem09Practice(radius, height)
 % operator.
 
 % Finds the surface area of the cylinder.
-surfaceArea = (2 * pi * r .* h) + (2 * pi * r.^2);
+surfaceArea = (2 * pi * radius .* height) + (2 * pi * radius.^2);
 
 
 end
