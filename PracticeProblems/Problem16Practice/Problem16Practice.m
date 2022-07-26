@@ -33,7 +33,7 @@ v(logicalOne) = 11 * t(logicalOne).^2 - 5 * t(logicalOne);
 v(logicalTwo) = 1100 - 5 * t(logicalTwo);
 
 % This line applies the third equation to the appropriate 't' values.
-v(logicalThree) = 50 * t(logicalThree) + 2 * (t(logicalThree) - 20).^(2.5)
+v(logicalThree) = 50 * t(logicalThree) + 2 * (t(logicalThree) - 20).^(2.5);
 
 % This line applies the fourth equation to the appropriate 't' values. The
 % 'exp' command is for taking the exponential value.
