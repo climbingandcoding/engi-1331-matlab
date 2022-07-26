@@ -4,7 +4,7 @@ function [volumeCM] = Problem2Practice(radiusCM, heightCM)
 
 % Finds the volume in centimeters cubed using the formula v = pi * radius^2
 % * height. The dot operator is used to account for a vector of radius and 
-% height is entered.
+% height being entered.
 volumeCM = pi .* radiusCM.^2 .* heightCM;
 
 
