@@ -1,4 +1,4 @@
-function [surfaceArea] = Problem9Practice(radius, height)
+function [surfaceArea] = Problem09Practice(radius, height)
 % Problem 9 Practice Solution. This problem covers functions and the dot
 % operator.
 
