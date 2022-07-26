@@ -92,7 +92,7 @@ hold on;
 % Plots the red markers.
 plot(Location(pointsAboveCritical), cityDeflectionValues(pointsAboveCritical), '.r', 'MarkerSize', 20);
 
-%Plots the black markers.
+% Plots the black markers.
 plot(Location(pointsBelowCritical), cityDeflectionValues(pointsBelowCritical), '.k', 'MarkerSize', 20);
 
 % Sets x and y labels.
