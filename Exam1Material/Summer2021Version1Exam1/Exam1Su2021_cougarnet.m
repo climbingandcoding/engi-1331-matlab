@@ -56,7 +56,7 @@ summaryMatrix = Salary;
 % the second argument would add up the values in the columns.
 summaryMatrix = [summaryMatrix, sum(summaryMatrix,2)];
 
-% % Using the semicolon allows us to append a row to the end of 'Salary'.
+% Using the semicolon allows us to append a row to the end of 'Salary'.
 % Using a comma would append a column to 'Salary'. Using the '1' in the
 % 'max' command finds the max value in the columns. Putting no number does
 % the same thing as putting a '1' since the default for 'max' is the
