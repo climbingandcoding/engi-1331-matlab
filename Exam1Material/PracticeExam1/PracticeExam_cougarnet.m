@@ -122,6 +122,6 @@ title('Projected Data for ' + underPerformingSchools(underPerformingSchoolChoice
 
 % Sets the step size of the x-axis. Without this, the x-axis would have a
 % step size of 0.5 instead of a step size of 1.
-xlim([2020 2025])
-xticks(2020:1:2025)
+xlim([2020 2025]);
+xticks(2020:1:2025);
 
