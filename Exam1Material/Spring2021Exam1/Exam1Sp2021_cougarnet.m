@@ -103,7 +103,7 @@ title(Area(areaChoiceOne));
 % Finds the area with the highest energy consumption.
 highestAverageEnergyArea = Area(highestAverageEnergyIndex);
 
-% Finds the time value of th lowest total energy consumption and the index
+% Finds the time value of the lowest total energy consumption and the index
 % that value is at.
 [lowestEnergyUse, lowestEnergyUseIndex] = min(sum(Energy));
 
