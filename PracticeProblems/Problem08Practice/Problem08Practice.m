@@ -1,4 +1,4 @@
-function [radiusM, heightM, material] = Problem8Practice()
+function [radiusM, heightM, material] = Problem08Practice()
 % Problem 8 Practice Solution. This problem covers inputs and functions. 
 % It is the same problem as problem 3.
 
