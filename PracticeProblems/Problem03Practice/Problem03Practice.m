@@ -12,8 +12,8 @@ radiusM = input('Enter a radius [m]: ');
 heightM = input('Enter a height [m]: ');
 
 % Takes the input of the material directly from the user. The 's' is needed
-% because the input command only accepts numerical entries unless the 's' string
-% identifier is present.
+% because the 'input' command only accepts numerical entries unless the 's'
+% string identifier is present.
 material = input('Enter a cylinder material: ', 's');
 
 
