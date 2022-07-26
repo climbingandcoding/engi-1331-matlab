@@ -1,5 +1,5 @@
 function [underPerformingListOutput, exceptionalListOutput] = Performance_Cougarnet(schoolNamesInput, levelPercentagesInput)
-% Task 3 function for Exam 1 Review Problem Version 1
+% Task 3 function for Exam 1 Review Problem Version 1.
 
 % Finds the names of the underperforming schools. The names stored in
 % 'schoolNamesInput' are only put into 'underPerformingListOutput' if the
