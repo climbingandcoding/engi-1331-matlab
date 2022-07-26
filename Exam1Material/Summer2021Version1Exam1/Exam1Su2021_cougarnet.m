@@ -42,6 +42,7 @@ userChoiceSalary = Salary(nameChoice, yearChoice);
 fprintf(['The annual salary for %s in %d is $%d.\n'], ... 
         Names(nameChoice), Years(yearChoice), userChoiceSalary);
 
+
 %% Task 2
 
 % Creates a duplicate of 'Salary'. This is used because we do not want to
