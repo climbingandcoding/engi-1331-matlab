@@ -64,6 +64,8 @@ maxEnergyYear = YEAR(find(totalEnergyUsed == max(totalEnergyUsed)));
 % vector.
 energyUsageRange = [min(totalEnergyUsed), max(totalEnergyUsed)];
 
+% Prints the year with the least/most amount of energy and the corresponding
+% years for those energy usages.
 fprintf(['The least amount of energy was used in %d with %d [kWh].\n', ...
         'The most amount of energy was used in %d with %d [kWh].\n\n'], ...
         minEnergyYear, energyUsageRange(1), maxEnergyYear, energyUsageRange(2));
