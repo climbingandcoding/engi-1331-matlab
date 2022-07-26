@@ -1,4 +1,4 @@
-function [surfaceTension, maximumRadiusM, liquidDensity] = Problem4Practice(maximumRadiusIN, specificGravity, densityWater, gravity)
+function [surfaceTension, maximumRadiusM, liquidDensity] = Problem04Practice(maximumRadiusIN, specificGravity, densityWater, gravity)
 % Problem 4 Practice Solution. This problem covers functions.
 
 % Finds the maximum radius of the droplet in meters. We do not need the dot
