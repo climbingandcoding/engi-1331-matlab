@@ -1,4 +1,4 @@
-function [volumeCM] = Problem2Practice(radiusCM, heightCM)
+function [volumeCM] = Problem02Practice(radiusCM, heightCM)
 % Problem 2 Practice Solution. This problem covers functions and the dot
 % operator.
 
