@@ -3,7 +3,7 @@ clc; clear ; close all;
 
 
 %% Task 1
-% Test Input: [10,11,12,13,14,15,16,25,26,27,28,29,30,40,50,40,30,25,20]
+% Test Input: [10, 11, 12, 13, 14, 15, 16, 25, 26, 27, 28, 29, 30, 40, 50, 40, 30, 25, 20]
 
 % Loads in data ('load' command is for .mat; 'readmatrix' or 'csvread' is
 % for .csv files).
