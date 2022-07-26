@@ -22,8 +22,8 @@ out6 = mean(matrix(rowChoice, :));
 % Finds the average of the chosen column.
 out7 = mean(matrix(:, colChoice));
 
-% Finds the overall minimum value of the matrix. Could have also used just
-% one 'min' command with the 'all' command.
+% Finds the overall minimum value of the matrix. You could have also used just
+% one 'min' command with the 'all' keyword.
 out8 = min(min(matrix));
 
 % Finds the maximum value of each column.
