@@ -3,11 +3,11 @@ function [volumeM, surfaceAreaM] = Problem1Practice(radiusCM, heightCM)
 % functions, and the dot operator.
 
 % Finds the radius in meters. The dot operator is used to account for a
-% vector of radius and height is entered.
+% vector of radius and height being entered.
 radiusMeters = radiusCM ./ 100;
 
 % Finds the height in meters. The dot operator is used to account for a
-% vector of radius and height is entered.
+% vector of radius and height being entered.
 heightMeters = heightCM ./ 100;
 
 % Finds the volume in meters cubed using the formula pi * radius^2 *
