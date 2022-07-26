@@ -2,10 +2,6 @@ function [radiusM, heightM, material] = Problem8Practice()
 % Problem 8 Practice Solution. This problem covers inputs and functions. 
 % It is the same problem as problem 3.
 
-% Handles the input from the user directly to the function. We will likely
-% never use this is in ENGI 1331.
-import IO_Handler.*;
-
 % Takes the input of the radius directly from the user.
 radiusM = input('Enter a radius [m]: ');
 
