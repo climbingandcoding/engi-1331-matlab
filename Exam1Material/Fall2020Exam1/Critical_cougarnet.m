@@ -25,7 +25,7 @@ averageAboveCrit = mean(deflectionVector(logicalAboveCrit));
 % operator (') is used because the prompt asks for a row vector.
 lowestDeflectVec = mink(deflectionVector, 2)';
 
-% These line find sthe locations of the lowest deflection values. The
+% This line finds the locations of the lowest deflection values. The
 % 'find' command is not needed because we are directly indexing an array
 % with a logical operator.
 lowestLocationVec = [locationStrings(lowestDeflectVec(1) == deflectionVector), locationStrings(lowestDeflectVec(2) == deflectionVector)];
