@@ -14,17 +14,17 @@ C = zeros(1, vectorLength);
 % 'A' and 'B'.
 for i = 1:1:vectorLength
 
-% This line checks whether the current value of A and B are equal. 
+% This line checks whether the current value of 'A' and 'B' are equal. 
 if A(i) == B(i)
     
     C(i) = 0;
 
-% This line checks whether the current value of A - B is positive.
+% This line checks whether the current value of 'A' - 'B' is positive.
 elseif A(i) - B(i) > 0
     
     C(i) = 1;
     
-% This line checks whether the current value of A - B is negative. It does
+% This line checks whether the current value of 'A' - 'B' is negative. It does
 % not really check anything since the only option left is for it to be
 % negative.
 else
