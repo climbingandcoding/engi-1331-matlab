@@ -15,14 +15,14 @@ for n = 1:length(inputCoefficient)
     areaUnderCurve(n) = integral(equationOne, 0, 10);
 
     % This line finds the minimum value of a curve and gives the x-value.
-    xMin(n) = fminbnd(equationOne,0,10);
+    xMin(n) = fminbnd(equationOne, 0, 10);
     
     % This line finds the lowest y-value in the given range.
     yMin(n) = equationOne(xMin(n));
 
     % This line creates the function to find the maximum value of a curve.
     % We flip the equation so that the minimum becomes the maximum.
-    equationTwo = @(x) -1*equationOne(x);
+    equationTwo = @(x) -1 * equationOne(x);
     
     % This line finds the maximum value of a curve and gives the x-value.
     xMax(n) = fminbnd(equationTwo, 0, 10);
@@ -30,7 +30,7 @@ for n = 1:length(inputCoefficient)
     % This line finds the highest y-value in the given range.
     yMax(n) = equationOne(xMax(n));
     
-    % where the function intersect y = 0
+    % This line finds where y = 0.
     xZero(n) = fzero(equationOne, 0);
     
     
