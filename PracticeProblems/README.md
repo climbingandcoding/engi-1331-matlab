@@ -6,44 +6,44 @@ Below, there is a table of contents for the topics covered in each practice prob
 
 **'[]' Tool:**
 
-'abs' Function:
+**'abs' Function:**
 
-Appending:
+**Appending:**
 
-Calling Functions:
+**Calling Functions:**
 
-Colon (:) Operator:
+**Colon (:) Operator:**
 
-'csvwrite' Function:
+**'csvwrite' Function:**
 
-'disp Function:
+**'disp Function:**
 
-Dot Operator:
+**Dot Operator:**
 
-'end' Function:
+**'end' Function:**
 
-'error' Function:
+**'error' Function:**
 
-'exp' Function:
+**'exp' Function:**
 
-'fprintf' Function:
+**'fprintf' Function:**
 
-Functions:
+**Functions:**
 
-'if' Statements:
+**'if' Statements:**
 
-'input' Function:
+**'input' Function:**
 
-'length' Function:
+**'length' Function:**
 
-'load' Function:
+**'load' Function:**
 
-Logicals:
+**Logicals:**
 
-'max' Function:
+**'max' Function:**
 
-'mean' Function:
+**'mean' Function:**
 
-'median' Function:
+**'median' Function:**
 
-'min' Function:
+**'min' Function:**
