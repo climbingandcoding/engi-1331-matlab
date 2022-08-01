@@ -47,3 +47,21 @@ Below, there is a table of contents for the topics covered in each practice prob
 **'median' Function:**
 
 **'min' Function:**
+
+**not (~) Operator:**
+
+**'ones' Function:**
+
+**Piecewise Functions:**
+
+**'size' Function:**
+
+**'sum' Function:**
+
+**Unit Conversion:**
+
+**'while' Loops:**
+
+**'zeros' Function:**
+
+
