@@ -1,5 +1,5 @@
 function [numberMinimums, minimum, location] = Problem27Practice(inputMatrix)
-% Problem 25 Practice Solution. This problem covers 'size', 'for' loops,
+% Problem 27 Practice Solution. This problem covers 'size', 'for' loops,
 % 'if' statements, and functions.
 
 % This lines gets the size of the input matrix. This will be useful when we
