@@ -10,6 +10,9 @@ Below, there is a table of contents for the topics covered in each practice prob
 **'abs' Function:**
 
 
+**Anonymous Functions:**
+
+
 **Appending:**
 
 
@@ -43,10 +46,17 @@ Below, there is a table of contents for the topics covered in each practice prob
 **Functions:**
 P01, P02
 
+
+**'fzero' Function:**
+
+
 **'if' Statements:**
 
 
 **'input' Function:**
+
+
+**'integral' Function:**
 
 
 **'length' Function:**
