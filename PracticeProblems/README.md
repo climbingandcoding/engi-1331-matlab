@@ -48,7 +48,7 @@ Below, there is a table of contents for the topics covered in each practice prob
 
 **'min' Function:**
 
-**not (~) Operator:**
+**Not (~) Operator:**
 
 **'ones' Function:**
 
