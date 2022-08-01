@@ -1,5 +1,5 @@
 function [uniqueIndicator] = Problem26Practice(vectorInput)
-% Problem 25 Practice Solution. This problem covers 'for' loops, 'if' 
+% Problem 26 Practice Solution. This problem covers 'for' loops, 'if' 
 % statements, 'length', the 'not' (~) operator, and functions.
 
 % This line assumes that the vector is unique. In the next lines, we will
