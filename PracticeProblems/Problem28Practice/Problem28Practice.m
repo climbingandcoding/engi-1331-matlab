@@ -25,7 +25,8 @@ for z = 1:row
             % Checks whether this index is a match or not.
             if M(z, y) == M(z, x)
                 
-                Check = 1; % Failed.
+                % Failed.
+                Check = 1;
                 
             end
             
@@ -49,7 +50,8 @@ for z = 1:cols
             % Checks whether this index is a match or not.
             if M(y, z) == M(x, z)
                 
-                Check = 1; % Failed.
+                % Failed.
+                Check = 1;
                 
             end
             
@@ -86,7 +88,8 @@ for sqx = 1:3:7
                 % Checks whether this index is a match or not.
                 if VECTOR(y) == VECTOR(x)
                     
-                    Check = 1; % Failed.
+                    % Failed.
+                    Check = 1;
                     
                 end
                 
