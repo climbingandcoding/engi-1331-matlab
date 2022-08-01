@@ -6,7 +6,7 @@ function [numberMinimums, minimum, location] = Problem27Practice(inputMatrix)
 % begin searching for minimum values.
 [row, col] = size(inputMatrix);
 
-% These lines establish the first minimu, which we will assume is the first
+% These lines establish the first minimum, which we will assume is the first
 % index in the 'inputMatrix'.
 minimum = inputMatrix(1, 1);
 location = [1, 1];
