@@ -1,6 +1,6 @@
 # engi-1331-matlab
 
-Resources for ENGI 1331 MATLAB at the University of Houston.
+**Resources for ENGI 1331 MATLAB at the University of Houston.**
 
 'CommonConfusionsAndExplanations' contains topics that frequently confuse students and explanations for those topics.
 
