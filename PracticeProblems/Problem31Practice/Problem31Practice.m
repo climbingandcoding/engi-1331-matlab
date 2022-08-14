@@ -1,4 +1,4 @@
-function [xIntersectionH,xIntersectionL, areaIntersection] = Problem31Practice(functionOne,functionTwo, yHorizontalValue)
+function [xIntersectionH, xIntersectionL, areaIntersection] = Problem31Practice(functionOne, functionTwo, yHorizontalValue)
 % Problem 31 Practice Solution. This problem covers anonymous functions,
 % 'for' loops, 'if' statements, 'fzero', 'integrals', and functions.
 
@@ -26,13 +26,13 @@ for n = 1:length(yHorizontalValue)
     % under the 'xIntersectionL' point.
     if xIntersectionH(n) < xIntersectionL(n)
         
-        % This line finds the area between the intersection poins.
+        % This line finds the area between the intersection points.
         areaIntersection(n) = integral(equationOne, xIntersectionH(n), xIntersectionL(n)); 
     
     % If the above 'if' statement was not true, then this one must be.
     else
         
-        % This line finds the area between the intersection poins.
+        % This line finds the area between the intersection points.
         areaIntersection(n) = integral(equationOne, xIntersectionL(n), xIntersectionH(n));
         
     end
