@@ -7,11 +7,11 @@ function [Z] = Problem34Practice(functionInput, lineInput, interval)
 % for identifying the intersection of the function and the line.
 fplot(functionInput, interval, '-r')
 
-% This line turns thre 'hold' function on, which allows us to plot multiple
+% This line turns the 'hold' function on, which allows us to plot multiple
 % figures without the previous one being deleted.
 hold on
 
-% This line plots the line of the given interval. This will be useful for
+% This line plots the line on the given interval. This will be useful for
 % identifying the intersection of the function and the line.
 fplot(lineInput, interval, '-b')
 
