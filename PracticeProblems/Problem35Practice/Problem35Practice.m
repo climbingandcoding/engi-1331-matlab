@@ -7,7 +7,8 @@ function [phasesStrings, numLiquid, numGas] = Problem35Practice(lowerTemp, upper
 % amount because we know from the prompt it is '2'.
 [row, ~] = size(pointsMatrix);
 
-% This line creates the output variable 'phaseStrings'.
+% This line creates the output variable 'phaseStrings'. It is defined as
+% an empty vector in case the input matrix is empty.
 phasesStrings = [];
 
 % This line creates the output variable 'numLiquid'. It is defined as '0'
