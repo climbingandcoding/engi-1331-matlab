@@ -3,7 +3,7 @@
 % This problem covers curve fitting, 'polyfit', 'end', and anonymous
 % functions.
 
-% This is the given dataset for linear curve fitting {TL, PL}
+% This is the given dataset for linear curve fitting {TL, VL}
 TL = [375, 395, 420, 450, 500];
 VL = [2.2, 2.3, 2.5, 2.6, 2.9];
 
