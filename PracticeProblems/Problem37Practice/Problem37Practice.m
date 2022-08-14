@@ -19,7 +19,7 @@ bL = CoeffsL(2);
 %0.1.
 TLRange = TL(1) : 0.1 : TL(end);
 
-% This line creates the Y values for the T ranges.
+% This line creates the V values for the T ranges.
 VLRange = mL * TLRange + bL;
 
 % This line creates the function handle for the linear curve.
