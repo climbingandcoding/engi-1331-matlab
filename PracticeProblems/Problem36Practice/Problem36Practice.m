@@ -19,7 +19,7 @@ bE = exp(CoeffsE(2));
 % 0.1.
 TERange = TE(1) : 0.1 : TE(end);
 
-% This line creates the Y values for the T ranges.
+% This line creates the V values for the T ranges.
 VERange = bE .* exp(mE .* TERange);
 
 % This line creates the function handle for the exponential curve.
