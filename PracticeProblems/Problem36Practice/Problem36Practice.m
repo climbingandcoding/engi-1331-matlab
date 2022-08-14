@@ -1,7 +1,7 @@
 %% Problem 36 Practice Solution
 
-% This problem covers curve fitting, 'polyfit', 'end', 'exp', and anonymous
-% functions.
+% This problem covers curve fitting, 'polyfit', 'end', 'exp', 'log',
+% and anonymous functions.
 
 % This is the given dataset for exponential curve fitting {TE, VE}.
 TE = [240, 260, 280, 300, 320];
