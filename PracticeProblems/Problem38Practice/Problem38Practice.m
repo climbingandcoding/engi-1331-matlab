@@ -3,7 +3,6 @@
 % This problem covers curve fitting, 'polyfit', 'end', 'log10', and 
 % anonymous functions.
 
-
 % This is the given dataset for power curve fitting {TP, VP}
 TP = [250, 260, 290, 325, 330];
 VP = [6.0, 6.1, 6.6, 7.2, 7.3];
@@ -17,7 +16,7 @@ mP = CoeffsP(1);
 bP = 10^CoeffsP(2);
 
 % This line creates the T ranges for the power curve with a step size of
-%0.1.
+% 0.1.
 TPRange = TP(1) : 0.1 : TP(end);
 
 % This line creates the V values for the T ranges.
