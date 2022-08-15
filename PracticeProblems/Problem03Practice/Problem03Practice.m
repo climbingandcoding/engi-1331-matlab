@@ -1,5 +1,5 @@
 function [radiusM, heightM, material] = Problem03Practice()
-% Problem 3 Practice Solution. This problem covers inputs and functions.
+% Problem 3 Practice Solution. This problem covers 'input' and functions.
 
 % Takes the input of the radius directly from the user.
 radiusM = input('Enter a radius [m]: ');
