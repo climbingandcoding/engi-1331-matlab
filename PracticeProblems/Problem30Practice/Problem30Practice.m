@@ -1,6 +1,6 @@
 function [areaUnderCurve, xMin, yMin, xMax, yMax, xZero] = Problem30Practice(inputCoefficient)
 % Problem 30 Practice Solution. This problem covers anonymous functions,
-% 'length', 'integral', 'fminbnd', 'integral, 'fzero' and functions.
+% 'length', 'integral', 'fminbnd', 'fzero', and functions.
 
 % This creates the loop that will go through all values as explained in the
 % prompt.
