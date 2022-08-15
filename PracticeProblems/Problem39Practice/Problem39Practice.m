@@ -1,6 +1,6 @@
 function [threeValues] = Problem39Practice(regressionEq, xValues, yValues)
 % Problem 39 Practice Solution. This problem covers 'for' loops, 'if'
-% statements, 'zeros', and functions.
+% statements, 'zeros', 'length', and functions.
 
 % This line preallocates the 'threeValues' output to all '0's in case the
 % given equation is empty.
