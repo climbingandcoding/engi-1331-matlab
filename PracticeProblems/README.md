@@ -8,10 +8,10 @@ Below, there is a table of contents for the topics covered in each practice prob
 P12, 
 
 **'abs' Function:**
-P20
+P20, P21
 
 **Anonymous Functions:**
-
+P29, P30
 
 **Appending:**
 P12, P13
@@ -43,33 +43,38 @@ P17, P18
 **'exp' Function:**
 P15, P16
 
+**'fminbnd' Function:**
+P30
+
+**'for' Loops:**
+P21, P22, P23, P24, P25, P26, P27, P28
+
 **'fprintf' Function:**
-P07, P11, P17
+P07, P11, P17, P21
 
 **Functions:**
-P01, P02, P03, P04, P05, P08, P09, P10, P12, P13, P14, P15, P16, P17, P18, P19, P20
-
+P01, P02, P03, P04, P05, P08, P09, P10, P12, P13, P14, P15, P16, P17, P18, P19, P20, P21, P22, P23, P24, P25, P26, P27, P28, P30
 
 **'fzero' Function:**
-
+P29, P30
 
 **'if' Statements:**
-P17, P18, P20
+P17, P18, P20, P21, P22, P23, P26, P27, P28
 
 **'input' Function:**
 P03, P08, P11
 
 **'integral' Function:**
-
+P29, P30
 
 **'length' Function:**
-P18
+P18, P22, P23, P26, P30
 
 **'load' Function:**
 P06
 
 **Logicals:**
-P15, P16
+P15, P16, P22
 
 **'max' Function:**
 P14
@@ -84,7 +89,7 @@ P14
 P14
 
 **Not (~) Operator:**
-P13
+P13, P26
 
 **'ones' Function:**
 P13
@@ -93,7 +98,7 @@ P13
 P15, P16
 
 **'size' Function:**
-P13, P14, P15, P16
+P13, P14, P15, P16, P27, P28
 
 **'sum' Function:**
 P14
