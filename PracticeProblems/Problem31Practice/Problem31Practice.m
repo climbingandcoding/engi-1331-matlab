@@ -1,6 +1,6 @@
 function [xIntersectionH, xIntersectionL, areaIntersection] = Problem31Practice(functionOne, functionTwo, yHorizontalValue)
 % Problem 31 Practice Solution. This problem covers anonymous functions,
-% 'for' loops, 'if' statements, 'fzero', 'integrals', and functions.
+% 'for' loops, 'if' statements, 'fzero', 'integral', and functions.
 
 % Creates the for loop that goes through all the given y-values. This is to
 % account for if more than one y-value is given.
