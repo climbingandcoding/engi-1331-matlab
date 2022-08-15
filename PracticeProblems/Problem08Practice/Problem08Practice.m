@@ -1,5 +1,5 @@
 function [radiusM, heightM, material] = Problem08Practice()
-% Problem 8 Practice Solution. This problem covers inputs and functions. 
+% Problem 8 Practice Solution. This problem covers 'input' and functions. 
 % It is the same problem as problem 3.
 
 % Takes the input of the radius directly from the user.
