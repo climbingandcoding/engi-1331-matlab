@@ -17,19 +17,22 @@ Below, there is a table of contents for the topics covered in each practice prob
 
 
 **Calling Functions:**
-
+P07
 
 **Colon (:) Operator:**
 
 
-**'csvwrite' Function:**
+**'csvread' Function:**
+P06
 
+**'csvwrite' Function:**
+P06
 
 **'disp Function:**
 
 
 **Dot Operator:**
-
+P01, P02, P05, P09, P10
 
 **'end' Function:**
 
@@ -41,10 +44,10 @@ Below, there is a table of contents for the topics covered in each practice prob
 
 
 **'fprintf' Function:**
-
+P07
 
 **Functions:**
-P01, P02
+P01, P02, P03, P04, P05, P08, P09, P10
 
 
 **'fzero' Function:**
@@ -54,7 +57,7 @@ P01, P02
 
 
 **'input' Function:**
-
+P03, P08
 
 **'integral' Function:**
 
@@ -63,7 +66,7 @@ P01, P02
 
 
 **'load' Function:**
-
+P06
 
 **Logicals:**
 
@@ -96,7 +99,7 @@ P01, P02
 
 
 **Unit Conversion:**
-
+P01, P05
 
 **'while' Loops:**
 
