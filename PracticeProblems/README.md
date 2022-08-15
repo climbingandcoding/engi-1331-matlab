@@ -31,7 +31,7 @@ P06
 **Curve Fitting:**
 P36, P37, P38
 
-**'disp Function:**
+**'disp' Function:**
 P20
 
 **Dot Operator:**
