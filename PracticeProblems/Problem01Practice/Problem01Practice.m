@@ -1,6 +1,6 @@
 function [volumeM, surfaceAreaM] = Problem01Practice(radiusCM, heightCM)
 % Problem 1 Practice Solution. This problem covers unit conversion, 
-% functions, and the dot operator.
+% the dot operator, and functions.
 
 % Finds the radius in meters. The dot operator is used to account for a
 % vector of radius and height being entered.
