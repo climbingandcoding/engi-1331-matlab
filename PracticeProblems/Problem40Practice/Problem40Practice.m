@@ -1,5 +1,6 @@
 function [Phase, Alpha, Beta, Zeta, Xint] = Problem40Practice(UT, UP)
-% Problem 40 Practice Solution. This problem covers 
+% Problem 40 Practice Solution. This problem covers anonymous functions,
+% 'if' statements, 'fzero', and functions.
 
 % This section builds the curve and intersection equations.
 y1 = @(x) 3.2 * x - 9;
@@ -20,7 +21,7 @@ if UT < Xint
         Region = 1;
      
     % If the user entered pressure is less than the pressure of the 'y2' 
-    % curve and greater than the pressure of the 'y1' curve, at the user 
+    % curve and greater than the pressure of the 'y1' curve at the user 
     % entered temperature.
     elseif UP < y2(UT) && UP > y1(UT)
         
@@ -38,14 +39,14 @@ if UT < Xint
 % intersection point.
 elseif UT > Xint
     
-    %If the user entered pressure is greater than the pressure of the 'y2' 
+    % If the user entered pressure is greater than the pressure of the 'y2' 
     % curve at the user entered temperature. 
     if UP > y1(UT)
         
         Region = 4;
      
     % If the user entered pressure is greater than the pressure of the 'y2' 
-    % curve and less than the pressure of the 'y1' curve, at the user 
+    % curve and less than the pressure of the 'y1' curve at the user 
     % entered temperature.
     elseif UP < y1(UT) && UP > y2(UT)
         
