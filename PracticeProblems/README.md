@@ -5,7 +5,7 @@ The problems should all be the same, but what problem 20 is for you may be probl
 Below, there is a table of contents for the topics covered in each practice problem.
 
 **'[]' Tool:**
-P12, 
+P12
 
 **'abs' Function:**
 P20, P21, P32
@@ -138,3 +138,4 @@ P19, P20
 
 **'zeros' Function:**
 P16, P39
+
