@@ -1,6 +1,6 @@
 function [Phase, Alpha, Beta, Zeta, Xint] = Problem40Practice(UT, UP)
 % Problem 40 Practice Solution. This problem covers anonymous functions,
-% 'if' statements, 'fzero', and functions.
+% 'if' statements, 'fzero', and functions.d
 
 % This section builds the curve and intersection equations.
 y1 = @(x) 3.2 * x - 9;
