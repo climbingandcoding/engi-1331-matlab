@@ -12,4 +12,6 @@
 
 'ExamFinalMaterial' contains practice material for the final ENGI 1331 exam.
 
+'MasteryAssignments' contains helpful information for the ENGI 1331 Mastery Assignments.
+
 'PracticeProblems' contains 40 practice problems covering all the topics taught in ENGI 1331.
