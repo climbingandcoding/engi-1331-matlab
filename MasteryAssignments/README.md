@@ -1,1 +1,1 @@
-
+This directory contains the mastery assignment prompts and all included files from the Fall 2022 semester of ENGI 1331. Additionally, it includes help sheets titled "MasteryAssignment#Basics.pdf", which contain hints about how to solve the given problems.
