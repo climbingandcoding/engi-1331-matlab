@@ -2,7 +2,7 @@ All problems are taken from the Spring 2021 Zybooks. Your problems may be in a s
 
 The problems should all be the same, but what problem 20 is for you may be problem 19 or 21 on here.
 
-Below, there is a table of contents for the topics covered in each practice problem.
+Below, there is a table of contents for the topics covered in each practice problem:
 
 **'[]' Tool:**
 P12
