@@ -5,3 +5,5 @@ This directory contains the mastery assignment prompts and all included files fr
 If you are just looking for the help sheet, you can download those in the 'MasteryAssignments' directory without needing to open any subdirectories.
 
 Solutions for Mastery Assignments are unfortunately not available. However, you are always welcome to see a UTA to go over how to solve any of the Mastery Assignments.
+
+Note: MA's in future semesters may not be the same ones found here.
