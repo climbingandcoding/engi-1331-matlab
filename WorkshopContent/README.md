@@ -1,6 +1,6 @@
-Each week folder contains two class folders.
+Each 'Week##' folder contains two 'Class##' folders.
 
-The content in the two class folders roughly follows the content presented in the main class.
+The content in the two 'Class##' folders roughly follows the content presented in the main class.
 
 You can follow along the main class using this material as additional practice.
 
