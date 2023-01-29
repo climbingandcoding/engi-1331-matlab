@@ -14,4 +14,4 @@
 
 'PracticeProblems' contains 40 practice problems covering all the topics taught in ENGI 1331.
 
-'WorkshopContent' contains 16 weeks worth of custom content from the Fall 2022 ENGI 1331 Workshop.
+'WorkshopContent' contains 16 weeks worth of content from the Fall 2022 ENGI 1331 Workshop.
